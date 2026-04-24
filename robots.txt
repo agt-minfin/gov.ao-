@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://agt-minfin.github.io/gov.ao-/sitemap.xml
+
+# Bloquear arquivos desnecessários
+Disallow: /*.json$
+Disallow: /*.txt$
+Disallow: /README.md
